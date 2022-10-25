@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 👋
+## Welcome to my profile 👋
 
 <div align="center">
   <a href="https://github.com/erlanl">
